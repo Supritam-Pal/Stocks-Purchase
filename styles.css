@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+   background-color:#000000;
+}
+label{
+    display:block;
+    padding-bottom: 1rem;
+    height: auto;
+    width: auto;
+}
+h1{
+    text-decoration: solid;
+    color: #0303e0;
+}
+label{
+    color: blueviolet;
+}
+button{
+    background-color: #e9967a;
+    color: #a52a2a;
+}
